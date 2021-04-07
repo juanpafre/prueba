@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+
+.parrafo{
+    color: white;
+    text-align: justify; 
+}
+
+h3{
+    color: white;
+}
+
+hr{
+    height: 2px;
+}
+
+.card{
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
+
+.card-footer{
+    background-color:#17a2b8;
+}
+
+.fas{
+    padding-left: 260px;
+}
+
+.card-one{
+    background-color: #17a2b8;
+}
+
+.card-two{
+    background-color: #17a2b8;
+}
+
+.card-three{
+    background-color: #17a2b8;
+}
+
+.card-four{
+    background-color: #17a2b8;
+}
+
+.card{
+    border-width: medium;
+}
+
+h5{
+    color: white;
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
